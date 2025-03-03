@@ -5,5 +5,4 @@ A recreation of an excellent puzzle game called N Step Steve (found [here](https
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Demo](demo/demo2.gif)  |  ![Demo](demo/demo2.gif)
-
-![Demo](demo/demo1.gif) ![Demo](demo/demo1.gif)
+![Demo](demo/demo2.gif)  |  ![Demo](demo/demo2.gif)
