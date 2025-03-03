@@ -6,7 +6,6 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Demo](demo/demo1.gif)  |  ![Demo](demo/demo1.gif)
 Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 ![Demo](demo/demo1.gif)  |  ![Demo](demo/demo1.gif)
 
 
