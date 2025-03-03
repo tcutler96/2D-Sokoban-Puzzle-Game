@@ -8,4 +8,4 @@ Solarized dark             |  Level Editor
 ![Demo](demo/demo3.gif)  |  ![Demo](demo/demo4.gif)
 
 
-![Demo](demo/demo1.gif)  ![Demo](demo/demo2.gif)
+![Demo](demo/demo1.gif)  ![Demo](demo/demo1.gif)
