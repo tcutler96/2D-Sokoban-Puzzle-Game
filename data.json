@@ -1,0 +1,2153 @@
+{
+  "game": {
+    "level": "(0, 0)",
+    "respawn": [
+      [
+        [
+          12,
+          2
+        ]
+      ],
+      [
+        [
+          12,
+          2
+        ]
+      ],
+      [
+        false
+      ]
+    ],
+    "part_one": false,
+    "part_two": false,
+    "collectables": {
+      "silver keys": [],
+      "silver gems": [],
+      "gold keys": [],
+      "gold gems": [],
+      "cheeses": []
+    },
+    "discovered_levels": [
+      "(0, 0)"
+    ],
+    "active_portals": []
+  },
+  "locks": {
+    "(-2, 2) - (0, 11)": {
+      "position": [
+        0,
+        11
+      ],
+      "collectable_type": "silver keys",
+      "collectable_amount": 3
+    },
+    "(-5, 2) - (3, 0)": {
+      "position": [
+        3,
+        0
+      ],
+      "collectable_type": "silver keys",
+      "collectable_amount": 6
+    },
+    "(-5, -1) - (15, 13)": {
+      "position": [
+        15,
+        13
+      ],
+      "collectable_type": "silver keys",
+      "collectable_amount": 9
+    },
+    "(-3, -2) - (1, 0)": {
+      "position": [
+        1,
+        0
+      ],
+      "collectable_type": "silver gems",
+      "collectable_amount": 15
+    },
+    "(-1, -11) - (7, 4)": {
+      "position": [
+        7,
+        4
+      ],
+      "collectable_type": "gold keys",
+      "collectable_amount": 15
+    },
+    "(0, -11) - (7, 0)": {
+      "position": [
+        7,
+        0
+      ],
+      "collectable_type": "gold gems",
+      "collectable_amount": 23
+    },
+    "(-1, -15) - (7, 1)": {
+      "position": [
+        7,
+        1
+      ],
+      "collectable_type": "cheeses",
+      "collectable_amount": 15
+    }
+  },
+  "map": {
+    "(-1, -1)": "right end",
+    "(-1, 2)": "left right",
+    "(-10, 2)": "left end",
+    "(-2, -1)": "top left",
+    "(-2, 0)": "up down",
+    "(-2, 1)": "up down",
+    "(-2, 2)": "centre",
+    "(-2, 3)": "up down",
+    "(-2, 4)": "up down",
+    "(-3, 2)": "left right",
+    "(-4, 0)": "left right",
+    "(-4, 2)": "left right",
+    "(-5, 0)": "centre",
+    "(-5, 1)": "left",
+    "(-5, 2)": "centre",
+    "(-5, 3)": "right",
+    "(-5, 4)": "down end",
+    "(-6, 0)": "top left",
+    "(-6, 1)": "bottom right",
+    "(-6, 2)": "top",
+    "(-6, 3)": "bottom",
+    "(-7, 1)": "left end",
+    "(-7, 2)": "left right",
+    "(-8, 2)": "left right",
+    "(-9, 2)": "left right",
+    "(0, 0)": "up end",
+    "(0, 1)": "up down",
+    "(0, 2)": "bottom right",
+    "(-3, 0)": "right",
+    "(-5, -1)": "left",
+    "(-5, -2)": "up down",
+    "(-5, -3)": "top right",
+    "(-6, -3)": "left end",
+    "(-1, -2)": "right end",
+    "(-2, -2)": "left right",
+    "(-3, -2)": "centre",
+    "(-4, -1)": "bottom right",
+    "(-4, -2)": "top left",
+    "(-2, 5)": "down end",
+    "(-7, 3)": "top left",
+    "(-3, 1)": "bottom right",
+    "(-4, 1)": "left right",
+    "(-3, -1)": "up down",
+    "(-3, -3)": "up end",
+    "(-7, 4)": "up down",
+    "(-7, 5)": "up down",
+    "(-7, 6)": "up down",
+    "(-7, 7)": "down end",
+    "(4, 4)": "single",
+    "(-1, -5)": "down end",
+    "(-1, -6)": "up down",
+    "(-1, -7)": "centre",
+    "(-2, -7)": "bottom",
+    "(-3, -7)": "top",
+    "(-4, -6)": "bottom right",
+    "(-4, -7)": "left",
+    "(0, -7)": "top",
+    "(1, -7)": "left right",
+    "(2, -6)": "bottom left",
+    "(2, -7)": "right",
+    "(-4, -8)": "right",
+    "(2, -8)": "left",
+    "(-2, -9)": "left right",
+    "(2, -9)": "left",
+    "(0, -11)": "bottom",
+    "(1, -11)": "bottom",
+    "(2, -10)": "right",
+    "(2, -11)": "right",
+    "(-1, -11)": "centre",
+    "(-2, -11)": "bottom",
+    "(-3, -11)": "bottom",
+    "(-4, -11)": "left",
+    "(-4, -10)": "right",
+    "(-4, -9)": "left",
+    "(-3, -10)": "left end",
+    "(-1, -10)": "right",
+    "(-1, -9)": "centre",
+    "(-2, -10)": "left right",
+    "(0, -9)": "right",
+    "(-1, -8)": "left",
+    "(0, -8)": "bottom right",
+    "(-2, -8)": "up end",
+    "(-3, -9)": "top",
+    "(-5, -10)": "left right",
+    "(-5, -8)": "top left",
+    "(-3, -12)": "up down",
+    "(-4, -12)": "up down",
+    "(-3, -13)": "up down",
+    "(-3, -14)": "up end",
+    "(-2, -12)": "up end",
+    "(0, -6)": "down end",
+    "(-5, -7)": "down end",
+    "(-3, -8)": "down end",
+    "(-6, -10)": "bottom left",
+    "(-6, -11)": "up down",
+    "(-6, -12)": "up end",
+    "(-5, -11)": "down end",
+    "(-5, -12)": "up down",
+    "(-5, -13)": "up end",
+    "(-4, -13)": "up down",
+    "(0, -12)": "left",
+    "(1, -12)": "right",
+    "(1, -13)": "up end",
+    "(2, -12)": "top left",
+    "(3, -12)": "left right",
+    "(4, -12)": "right end",
+    "(1, -10)": "top",
+    "(1, -9)": "up down",
+    "(-3, -6)": "up down",
+    "(-3, -5)": "bottom right",
+    "(-4, -5)": "left right",
+    "(-5, -5)": "left end",
+    "(3, -7)": "bottom left",
+    "(3, -8)": "top right",
+    "(4, -7)": "right end",
+    "(3, -10)": "up down",
+    "(3, -11)": "up end",
+    "(3, -9)": "bottom right",
+    "(0, -10)": "top left",
+    "(-1, -12)": "up down",
+    "(-1, -13)": "up down",
+    "(-2, -13)": "down end",
+    "(-4, -14)": "up end",
+    "(0, -5)": "left end",
+    "(1, -5)": "left right",
+    "(-5, -6)": "left right",
+    "(-6, -6)": "left end",
+    "(-6, -5)": "bottom left",
+    "(-7, -5)": "single",
+    "(-8, -6)": "single",
+    "(-7, -7)": "single",
+    "(-7, -6)": "single",
+    "(2, -5)": "right end",
+    "(-2, -14)": "top left",
+    "(-1, -14)": "top",
+    "(-2, -6)": "single",
+    "(-5, -9)": "single",
+    "(-7, -10)": "down end",
+    "(-7, -11)": "up end",
+    "(0, -13)": "up end",
+    "(0, -14)": "right end",
+    "(1, -14)": "single",
+    "(1, -6)": "single",
+    "(1, -8)": "down end",
+    "(2, -13)": "single",
+    "(2, -14)": "single",
+    "(3, -6)": "left right",
+    "(4, -6)": "left right",
+    "(5, -6)": "left right",
+    "(6, -6)": "left right",
+    "(7, -6)": "right end",
+    "(-1, -15)": "bottom",
+    "(0, -15)": "bottom",
+    "(0, -16)": "top left",
+    "(1, -16)": "bottom",
+    "(1, -17)": "top left",
+    "(2, -16)": "top",
+    "(2, -15)": "bottom left",
+    "(-2, -15)": "bottom left",
+    "(-2, -16)": "top right",
+    "(-3, -16)": "top",
+    "(-4, -16)": "centre",
+    "(-4, -17)": "right",
+    "(-5, -17)": "bottom",
+    "(2, -17)": "right end",
+    "(-4, -15)": "down end",
+    "(-5, -16)": "left end",
+    "(-6, -17)": "left end",
+    "(7, -17)": "down end",
+    "(7, -18)": "up end"
+  },
+  "teleporters": {
+    "recievers": {
+      "(-2, 2) - (8, 8)": {
+        "position": [
+          8,
+          8
+        ],
+        "destination": "(-2, 2) - (8, 8)"
+      },
+      "(-5, 2) - (8, 7)": {
+        "position": [
+          8,
+          7
+        ],
+        "destination": "(-5, 2) - (8, 7)"
+      },
+      "(-5, 0) - (13, 2)": {
+        "position": [
+          13,
+          2
+        ],
+        "destination": "(-5, 0) - (13, 2)"
+      },
+      "(-1, -7) - (10, 3)": {
+        "position": [
+          10,
+          3
+        ],
+        "destination": "(-1, -7) - (10, 3)"
+      },
+      "(2, -7) - (8, 7)": {
+        "position": [
+          8,
+          7
+        ],
+        "destination": "(2, -7) - (8, 7)"
+      },
+      "(-4, -7) - (7, 7)": {
+        "position": [
+          7,
+          7
+        ],
+        "destination": "(-4, -7) - (7, 7)"
+      },
+      "(-4, -11) - (4, 6)": {
+        "position": [
+          4,
+          6
+        ],
+        "destination": "(-4, -11) - (4, 6)"
+      },
+      "(-1, -11) - (9, 5)": {
+        "position": [
+          9,
+          5
+        ],
+        "destination": "(-1, -11) - (9, 5)"
+      },
+      "(2, -11) - (8, 7)": {
+        "position": [
+          8,
+          7
+        ],
+        "destination": "(2, -11) - (8, 7)"
+      },
+      "(-1, -15) - (13, 5)": {
+        "position": [
+          13,
+          5
+        ],
+        "destination": "(-1, -15) - (13, 5)"
+      },
+      "(-6, 2) - (13, 7)": {
+        "position": [
+          13,
+          7
+        ],
+        "destination": "(-6, 2) - (13, 7)"
+      },
+      "(-6, 2) - (11, 7)": {
+        "position": [
+          11,
+          7
+        ],
+        "destination": "(-6, 2) - (11, 7)"
+      }
+    },
+    "senders": {
+      "(-2, 5) - (4, 13)": {
+        "position": [
+          4,
+          13
+        ],
+        "destination": "(-2, 2) - (8, 8)"
+      },
+      "(-2, -1) - (6, 2)": {
+        "position": [
+          6,
+          2
+        ],
+        "destination": "(-2, 2) - (8, 8)"
+      },
+      "(-1, -1) - (12, 4)": {
+        "position": [
+          12,
+          4
+        ],
+        "destination": "(-2, 2) - (8, 8)"
+      },
+      "(-5, 4) - (12, 8)": {
+        "position": [
+          12,
+          8
+        ],
+        "destination": null
+      },
+      "(-7, 3) - (8, 7)": {
+        "position": [
+          8,
+          7
+        ],
+        "destination": null
+      },
+      "(-7, 7) - (10, 14)": {
+        "position": [
+          10,
+          14
+        ],
+        "destination": null
+      },
+      "(-10, 2) - (2, 3)": {
+        "position": [
+          2,
+          3
+        ],
+        "destination": null
+      },
+      "(-2, 4) - (13, 7)": {
+        "position": [
+          13,
+          7
+        ],
+        "destination": "(-2, 2) - (8, 8)"
+      },
+      "(-7, 1) - (13, 8)": {
+        "position": [
+          13,
+          8
+        ],
+        "destination": null
+      },
+      "(-3, 0) - (2, 9)": {
+        "position": [
+          2,
+          9
+        ],
+        "destination": "(-5, 0) - (13, 2)"
+      },
+      "(-3, 1) - (12, 9)": {
+        "position": [
+          12,
+          9
+        ],
+        "destination": null
+      },
+      "(-6, -3) - (11, 2)": {
+        "position": [
+          11,
+          2
+        ],
+        "destination": null
+      },
+      "(-6, 3) - (5, 8)": {
+        "position": [
+          5,
+          8
+        ],
+        "destination": null
+      },
+      "(-5, -7) - (8, 5)": {
+        "position": [
+          8,
+          5
+        ],
+        "destination": "(-2, -12) - (5, 5)"
+      },
+      "(-3, -9) - (12, 4)": {
+        "position": [
+          12,
+          4
+        ],
+        "destination": "(-4, -11) - (4, 6)"
+      },
+      "(0, -6) - (2, 12)": {
+        "position": [
+          2,
+          12
+        ],
+        "destination": "(-1, -7) - (10, 3)"
+      },
+      "(-2, -8) - (1, 13)": {
+        "position": [
+          1,
+          13
+        ],
+        "destination": "(-1, -7) - (10, 3)"
+      },
+      "(-3, -14) - (9, 4)": {
+        "position": [
+          9,
+          4
+        ],
+        "destination": "(-4, -11) - (4, 6)"
+      },
+      "(-6, -12) - (11, 11)": {
+        "position": [
+          11,
+          11
+        ],
+        "destination": "(-4, -11) - (4, 6)"
+      },
+      "(-5, -13) - (3, 12)": {
+        "position": [
+          3,
+          12
+        ],
+        "destination": "(-5, -11) - (11, 3)"
+      },
+      "(-5, -13) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": null
+      },
+      "(-5, -13) - (11, 3)": {
+        "position": [
+          11,
+          3
+        ],
+        "destination": null
+      },
+      "(-2, -12) - (5, 5)": {
+        "position": [
+          5,
+          5
+        ],
+        "destination": "(-1, -11) - (9, 5)"
+      },
+      "(-3, -10) - (8, 2)": {
+        "position": [
+          8,
+          2
+        ],
+        "destination": "(-1, -11) - (9, 5)"
+      },
+      "(1, -13) - (8, 5)": {
+        "position": [
+          8,
+          5
+        ],
+        "destination": "(2, -11) - (8, 7)"
+      },
+      "(1, -10) - (5, 7)": {
+        "position": [
+          5,
+          7
+        ],
+        "destination": null
+      },
+      "(-5, -5) - (9, 2)": {
+        "position": [
+          9,
+          2
+        ],
+        "destination": "(-4, -7) - (7, 7)"
+      },
+      "(4, -7) - (9, 14)": {
+        "position": [
+          9,
+          14
+        ],
+        "destination": "(2, -7) - (8, 7)"
+      },
+      "(0, -10) - (11, 8)": {
+        "position": [
+          11,
+          8
+        ],
+        "destination": "(-1, -7) - (10, 3)"
+      },
+      "(0, -8) - (12, 14)": {
+        "position": [
+          12,
+          14
+        ],
+        "destination": "(-1, -7) - (10, 3)"
+      },
+      "(4, -12) - (5, 10)": {
+        "position": [
+          5,
+          10
+        ],
+        "destination": "(2, -11) - (8, 7)"
+      },
+      "(3, -11) - (10, 1)": {
+        "position": [
+          10,
+          1
+        ],
+        "destination": "(2, -7) - (8, 7)"
+      },
+      "(-4, -14) - (13, 3)": {
+        "position": [
+          13,
+          3
+        ],
+        "destination": "(-4, -11) - (4, 6)"
+      },
+      "(-7, -7) - (9, 6)": {
+        "position": [
+          9,
+          6
+        ],
+        "destination": null
+      },
+      "(-7, -6) - (13, 13)": {
+        "position": [
+          13,
+          13
+        ],
+        "destination": "(-4, -7) - (7, 7)"
+      },
+      "(7, -6) - (8, 5)": {
+        "position": [
+          8,
+          5
+        ],
+        "destination": "(2, -7) - (8, 7)"
+      },
+      "(-6, 2) - (12, 6)": {
+        "position": [
+          12,
+          6
+        ],
+        "destination": null
+      },
+      "(0, -14) - (7, 6)": {
+        "position": [
+          7,
+          6
+        ],
+        "destination": null
+      }
+    },
+    "portals": {
+      "(-1, -5) - (1, 10)": {
+        "position": [
+          1,
+          10
+        ],
+        "destination": "(-1, -6) - (10, 2)"
+      },
+      "(-1, -6) - (10, 2)": {
+        "position": [
+          10,
+          2
+        ],
+        "destination": "(-1, -5) - (1, 10)"
+      },
+      "(-1, -7) - (13, 10)": {
+        "position": [
+          13,
+          10
+        ],
+        "destination": "(1, -6) - (3, 6)"
+      },
+      "(-2, -7) - (1, 12)": {
+        "position": [
+          1,
+          12
+        ],
+        "destination": "(-2, -6) - (1, 2)"
+      },
+      "(-4, -7) - (5, 7)": {
+        "position": [
+          5,
+          7
+        ],
+        "destination": "(-5, -6) - (7, 3)"
+      },
+      "(0, -7) - (1, 10)": {
+        "position": [
+          1,
+          10
+        ],
+        "destination": null
+      },
+      "(0, -7) - (8, 10)": {
+        "position": [
+          8,
+          10
+        ],
+        "destination": null
+      },
+      "(2, -7) - (10, 7)": {
+        "position": [
+          10,
+          7
+        ],
+        "destination": "(3, -6) - (1, 12)"
+      },
+      "(-1, -2) - (5, 7)": {
+        "position": [
+          5,
+          7
+        ],
+        "destination": "(-1, -5) - (3, 11)"
+      },
+      "(-1, -5) - (3, 11)": {
+        "position": [
+          3,
+          11
+        ],
+        "destination": "(-1, -2) - (5, 7)"
+      },
+      "(0, -11) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": null
+      },
+      "(-3, -9) - (7, 8)": {
+        "position": [
+          7,
+          8
+        ],
+        "destination": "(-3, -9) - (3, 2)"
+      },
+      "(0, -6) - (7, 11)": {
+        "position": [
+          7,
+          11
+        ],
+        "destination": "(0, -7) - (8, 10)"
+      },
+      "(-2, -8) - (1, 1)": {
+        "position": [
+          1,
+          1
+        ],
+        "destination": "(-2, -8) - (12, 14)"
+      },
+      "(-5, -8) - (6, 5)": {
+        "position": [
+          6,
+          5
+        ],
+        "destination": "(-5, -8) - (8, 9)"
+      },
+      "(-5, -8) - (8, 9)": {
+        "position": [
+          8,
+          9
+        ],
+        "destination": "(-5, -8) - (6, 5)"
+      },
+      "(-3, -14) - (2, 14)": {
+        "position": [
+          2,
+          14
+        ],
+        "destination": "(-3, -12) - (13, 14)"
+      },
+      "(-3, -14) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": null
+      },
+      "(-3, -12) - (13, 14)": {
+        "position": [
+          13,
+          14
+        ],
+        "destination": "(-3, -14) - (2, 14)"
+      },
+      "(-6, -10) - (7, 13)": {
+        "position": [
+          7,
+          13
+        ],
+        "destination": "(-6, -11) - (2, 3)"
+      },
+      "(-6, -10) - (8, 14)": {
+        "position": [
+          8,
+          14
+        ],
+        "destination": "(-5, -10) - (14, 2)"
+      },
+      "(-5, -10) - (14, 2)": {
+        "position": [
+          14,
+          2
+        ],
+        "destination": "(-6, -10) - (8, 14)"
+      },
+      "(-6, -11) - (2, 3)": {
+        "position": [
+          2,
+          3
+        ],
+        "destination": "(-6, -10) - (7, 13)"
+      },
+      "(-5, -11) - (14, 7)": {
+        "position": [
+          14,
+          7
+        ],
+        "destination": "(-4, -11) - (1, 7)"
+      },
+      "(-4, -11) - (1, 7)": {
+        "position": [
+          1,
+          7
+        ],
+        "destination": "(-5, -11) - (14, 7)"
+      },
+      "(-5, -13) - (3, 12)": {
+        "position": [
+          3,
+          12
+        ],
+        "destination": null
+      },
+      "(-5, -11) - (11, 3)": {
+        "position": [
+          11,
+          3
+        ],
+        "destination": "(-5, -13) - (3, 12)"
+      },
+      "(-4, -12) - (7, 1)": {
+        "position": [
+          7,
+          1
+        ],
+        "destination": "(-4, -12) - (8, 14)"
+      },
+      "(-4, -12) - (8, 14)": {
+        "position": [
+          8,
+          14
+        ],
+        "destination": "(-4, -12) - (7, 1)"
+      },
+      "(-3, -10) - (7, 14)": {
+        "position": [
+          7,
+          14
+        ],
+        "destination": "(-1, -10) - (3, 7)"
+      },
+      "(-1, -10) - (3, 7)": {
+        "position": [
+          3,
+          7
+        ],
+        "destination": "(-3, -10) - (7, 14)"
+      },
+      "(0, -12) - (13, 2)": {
+        "position": [
+          13,
+          2
+        ],
+        "destination": "(1, -11) - (9, 2)"
+      },
+      "(1, -11) - (9, 2)": {
+        "position": [
+          9,
+          2
+        ],
+        "destination": "(0, -12) - (13, 2)"
+      },
+      "(2, -12) - (14, 9)": {
+        "position": [
+          14,
+          9
+        ],
+        "destination": "(2, -12) - (11, 14)"
+      },
+      "(2, -12) - (11, 14)": {
+        "position": [
+          11,
+          14
+        ],
+        "destination": "(2, -12) - (14, 9)"
+      },
+      "(1, -10) - (13, 11)": {
+        "position": [
+          13,
+          11
+        ],
+        "destination": null
+      },
+      "(2, -10) - (1, 12)": {
+        "position": [
+          1,
+          12
+        ],
+        "destination": "(1, -10) - (13, 11)"
+      },
+      "(1, -10) - (10, 11)": {
+        "position": [
+          10,
+          11
+        ],
+        "destination": null
+      },
+      "(1, -9) - (14, 2)": {
+        "position": [
+          14,
+          2
+        ],
+        "destination": "(1, -10) - (10, 11)"
+      },
+      "(-3, -6) - (3, 10)": {
+        "position": [
+          3,
+          10
+        ],
+        "destination": "(-3, -6) - (13, 3)"
+      },
+      "(-3, -6) - (13, 3)": {
+        "position": [
+          13,
+          3
+        ],
+        "destination": "(-3, -6) - (3, 10)"
+      },
+      "(-4, -5) - (8, 6)": {
+        "position": [
+          8,
+          6
+        ],
+        "destination": "(-3, -6) - (10, 11)"
+      },
+      "(-3, -6) - (10, 11)": {
+        "position": [
+          10,
+          11
+        ],
+        "destination": "(-4, -5) - (8, 6)"
+      },
+      "(3, -8) - (5, 14)": {
+        "position": [
+          5,
+          14
+        ],
+        "destination": "(3, -8) - (1, 10)"
+      },
+      "(3, -8) - (1, 10)": {
+        "position": [
+          1,
+          10
+        ],
+        "destination": "(3, -8) - (5, 14)"
+      },
+      "(3, -7) - (14, 7)": {
+        "position": [
+          14,
+          7
+        ],
+        "destination": "(3, -8) - (7, 14)"
+      },
+      "(3, -8) - (7, 14)": {
+        "position": [
+          7,
+          14
+        ],
+        "destination": "(3, -7) - (14, 7)"
+      },
+      "(0, -9) - (1, 3)": {
+        "position": [
+          1,
+          3
+        ],
+        "destination": null
+      },
+      "(-1, -9) - (11, 14)": {
+        "position": [
+          11,
+          14
+        ],
+        "destination": "(0, -9) - (1, 3)"
+      },
+      "(0, -8) - (7, 7)": {
+        "position": [
+          7,
+          7
+        ],
+        "destination": "(-1, -8) - (14, 3)"
+      },
+      "(-1, -8) - (14, 3)": {
+        "position": [
+          14,
+          3
+        ],
+        "destination": "(0, -8) - (7, 7)"
+      },
+      "(3, -11) - (10, 8)": {
+        "position": [
+          10,
+          8
+        ],
+        "destination": "(3, -10) - (6, 1)"
+      },
+      "(3, -10) - (6, 1)": {
+        "position": [
+          6,
+          1
+        ],
+        "destination": "(3, -11) - (10, 8)"
+      },
+      "(-4, -13) - (7, 1)": {
+        "position": [
+          7,
+          1
+        ],
+        "destination": "(-4, -13) - (4, 13)"
+      },
+      "(-4, -13) - (4, 13)": {
+        "position": [
+          4,
+          13
+        ],
+        "destination": "(-4, -13) - (7, 1)"
+      },
+      "(0, -5) - (1, 10)": {
+        "position": [
+          1,
+          10
+        ],
+        "destination": "(0, -7) - (1, 10)"
+      },
+      "(-5, -6) - (7, 3)": {
+        "position": [
+          7,
+          3
+        ],
+        "destination": "(-4, -7) - (5, 7)"
+      },
+      "(-6, -6) - (9, 4)": {
+        "position": [
+          9,
+          4
+        ],
+        "destination": "(-6, -6) - (7, 4)"
+      },
+      "(-6, -6) - (7, 4)": {
+        "position": [
+          7,
+          4
+        ],
+        "destination": "(-6, -6) - (9, 4)"
+      },
+      "(-6, -6) - (2, 4)": {
+        "position": [
+          2,
+          4
+        ],
+        "destination": "(-6, -6) - (2, 10)"
+      },
+      "(-6, -6) - (2, 10)": {
+        "position": [
+          2,
+          10
+        ],
+        "destination": "(-6, -6) - (2, 4)"
+      },
+      "(-6, -6) - (5, 6)": {
+        "position": [
+          5,
+          6
+        ],
+        "destination": "(-7, -5) - (1, 7)"
+      },
+      "(-7, -5) - (1, 7)": {
+        "position": [
+          1,
+          7
+        ],
+        "destination": "(-6, -6) - (5, 6)"
+      },
+      "(-7, -5) - (14, 7)": {
+        "position": [
+          14,
+          7
+        ],
+        "destination": "(-8, -6) - (7, 4)"
+      },
+      "(-8, -6) - (7, 4)": {
+        "position": [
+          7,
+          4
+        ],
+        "destination": null
+      },
+      "(-8, -6) - (8, 8)": {
+        "position": [
+          8,
+          8
+        ],
+        "destination": null
+      },
+      "(-7, -5) - (10, 10)": {
+        "position": [
+          10,
+          10
+        ],
+        "destination": "(-8, -6) - (8, 8)"
+      },
+      "(-8, -6) - (6, 9)": {
+        "position": [
+          6,
+          9
+        ],
+        "destination": "(-7, -7) - (5, 6)"
+      },
+      "(-7, -7) - (5, 6)": {
+        "position": [
+          5,
+          6
+        ],
+        "destination": null
+      },
+      "(-5, -6) - (3, 14)": {
+        "position": [
+          3,
+          14
+        ],
+        "destination": "(-7, -6) - (3, 7)"
+      },
+      "(-7, -6) - (3, 7)": {
+        "position": [
+          3,
+          7
+        ],
+        "destination": null
+      },
+      "(0, -10) - (5, 13)": {
+        "position": [
+          5,
+          13
+        ],
+        "destination": "(-1, -10) - (12, 7)"
+      },
+      "(-1, -10) - (12, 7)": {
+        "position": [
+          12,
+          7
+        ],
+        "destination": "(0, -10) - (5, 13)"
+      },
+      "(-5, -9) - (7, 2)": {
+        "position": [
+          7,
+          2
+        ],
+        "destination": "(-4, -9) - (1, 1)"
+      },
+      "(-4, -9) - (1, 1)": {
+        "position": [
+          1,
+          1
+        ],
+        "destination": "(-5, -9) - (7, 2)"
+      },
+      "(-2, -6) - (1, 2)": {
+        "position": [
+          1,
+          2
+        ],
+        "destination": "(-2, -7) - (1, 12)"
+      },
+      "(1, -6) - (3, 6)": {
+        "position": [
+          3,
+          6
+        ],
+        "destination": "(-1, -7) - (13, 10)"
+      },
+      "(1, -6) - (7, 7)": {
+        "position": [
+          7,
+          7
+        ],
+        "destination": null
+      },
+      "(1, -11) - (2, 13)": {
+        "position": [
+          2,
+          13
+        ],
+        "destination": "(1, -11) - (2, 10)"
+      },
+      "(1, -11) - (2, 10)": {
+        "position": [
+          2,
+          10
+        ],
+        "destination": "(1, -11) - (2, 13)"
+      },
+      "(1, -11) - (4, 14)": {
+        "position": [
+          4,
+          14
+        ],
+        "destination": "(1, -6) - (7, 7)"
+      },
+      "(1, -9) - (2, 7)": {
+        "position": [
+          2,
+          7
+        ],
+        "destination": "(1, -10) - (3, 3)"
+      },
+      "(1, -10) - (3, 3)": {
+        "position": [
+          3,
+          3
+        ],
+        "destination": "(1, -9) - (2, 7)"
+      },
+      "(3, -6) - (1, 12)": {
+        "position": [
+          1,
+          12
+        ],
+        "destination": "(2, -7) - (10, 7)"
+      },
+      "(4, -6) - (13, 2)": {
+        "position": [
+          13,
+          2
+        ],
+        "destination": "(3, -6) - (11, 13)"
+      },
+      "(3, -6) - (11, 13)": {
+        "position": [
+          11,
+          13
+        ],
+        "destination": "(4, -6) - (13, 2)"
+      },
+      "(6, -6) - (2, 10)": {
+        "position": [
+          2,
+          10
+        ],
+        "destination": "(5, -6) - (3, 3)"
+      },
+      "(5, -6) - (3, 3)": {
+        "position": [
+          3,
+          3
+        ],
+        "destination": "(6, -6) - (2, 10)"
+      },
+      "(1, -9) - (11, 14)": {
+        "position": [
+          11,
+          14
+        ],
+        "destination": "(2, -9) - (3, 14)"
+      },
+      "(2, -9) - (3, 14)": {
+        "position": [
+          3,
+          14
+        ],
+        "destination": "(1, -9) - (11, 14)"
+      },
+      "(-1, -15) - (2, 3)": {
+        "position": [
+          2,
+          3
+        ],
+        "destination": "(-1, -15) - (2, 5)"
+      },
+      "(-1, -15) - (2, 5)": {
+        "position": [
+          2,
+          5
+        ],
+        "destination": "(-1, -15) - (2, 3)"
+      },
+      "(-6, 2) - (12, 8)": {
+        "position": [
+          12,
+          8
+        ],
+        "destination": "(-6, 2) - (13, 9)"
+      },
+      "(-6, 2) - (14, 8)": {
+        "position": [
+          14,
+          8
+        ],
+        "destination": "(-6, 2) - (14, 6)"
+      },
+      "(-6, 2) - (14, 6)": {
+        "position": [
+          14,
+          6
+        ],
+        "destination": "(-6, 2) - (14, 8)"
+      },
+      "(-3, -9) - (3, 2)": {
+        "position": [
+          3,
+          2
+        ],
+        "destination": "(-3, -9) - (7, 8)"
+      },
+      "(-1, -9) - (4, 14)": {
+        "position": [
+          4,
+          14
+        ],
+        "destination": "(-2, -9) - (11, 11)"
+      },
+      "(-2, -9) - (11, 11)": {
+        "position": [
+          11,
+          11
+        ],
+        "destination": "(-1, -9) - (4, 14)"
+      },
+      "(-4, -10) - (4, 4)": {
+        "position": [
+          4,
+          4
+        ],
+        "destination": "(-4, -10) - (4, 5)"
+      },
+      "(-4, -10) - (4, 5)": {
+        "position": [
+          4,
+          5
+        ],
+        "destination": "(-4, -10) - (4, 4)"
+      },
+      "(0, -13) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": null
+      },
+      "(-2, -14) - (1, 13)": {
+        "position": [
+          1,
+          13
+        ],
+        "destination": "(-2, -15) - (7, 11)"
+      },
+      "(-2, -15) - (7, 11)": {
+        "position": [
+          7,
+          11
+        ],
+        "destination": "(-2, -14) - (1, 13)"
+      },
+      "(-3, -11) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": "(-5, -16) - (13, 5)"
+      },
+      "(-5, -16) - (13, 5)": {
+        "position": [
+          13,
+          5
+        ],
+        "destination": "(-3, -11) - (3, 1)"
+      },
+      "(1, -16) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": "(-6, -17) - (13, 4)"
+      },
+      "(-6, -17) - (13, 4)": {
+        "position": [
+          13,
+          4
+        ],
+        "destination": "(1, -16) - (3, 1)"
+      },
+      "(7, -17) - (2, 5)": {
+        "position": [
+          2,
+          5
+        ],
+        "destination": "(0, -16) - (7, 4)"
+      },
+      "(0, -16) - (7, 4)": {
+        "position": [
+          7,
+          4
+        ],
+        "destination": "(7, -17) - (2, 5)"
+      },
+      "(0, -14) - (3, 1)": {
+        "position": [
+          3,
+          1
+        ],
+        "destination": "(2, -13) - (3, 3)"
+      },
+      "(2, -13) - (3, 3)": {
+        "position": [
+          3,
+          3
+        ],
+        "destination": "(0, -14) - (3, 1)"
+      },
+      "(2, -13) - (7, 3)": {
+        "position": [
+          7,
+          3
+        ],
+        "destination": "(2, -16) - (7, 3)"
+      },
+      "(2, -16) - (7, 3)": {
+        "position": [
+          7,
+          3
+        ],
+        "destination": "(2, -13) - (7, 3)"
+      }
+    },
+    "activations": {
+      "(-1, -2) - (5, 7)": {
+        "position": [
+          5,
+          7
+        ],
+        "portals": [
+          "(-1, -2) - (5, 7)",
+          "(-1, -5) - (3, 11)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-1, -6) - (9, 6)": {
+        "position": [
+          9,
+          6
+        ],
+        "portals": [
+          "(-1, -6) - (10, 2)",
+          "(-1, -5) - (1, 10)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(0, -6) - (7, 10)": {
+        "position": [
+          7,
+          10
+        ],
+        "portals": [
+          "(0, -6) - (7, 11)",
+          "(0, -7) - (8, 10)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-2, -8) - (1, 2)": {
+        "position": [
+          1,
+          2
+        ],
+        "portals": [
+          "(-2, -8) - (1, 1)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -8) - (5, 2)": {
+        "position": [
+          5,
+          2
+        ],
+        "portals": [
+          "(-5, -8) - (6, 5)",
+          "(-5, -8) - (8, 9)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-3, -14) - (6, 14)": {
+        "position": [
+          6,
+          14
+        ],
+        "portals": [
+          "(-3, -14) - (2, 14)",
+          "(-3, -12) - (13, 14)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-6, -10) - (8, 13)": {
+        "position": [
+          8,
+          13
+        ],
+        "portals": [
+          "(-6, -10) - (8, 14)",
+          "(-5, -10) - (14, 2)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-6, -11) - (3, 3)": {
+        "position": [
+          3,
+          3
+        ],
+        "portals": [
+          "(-6, -11) - (2, 3)",
+          "(-6, -10) - (7, 13)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -11) - (9, 7)": {
+        "position": [
+          9,
+          7
+        ],
+        "portals": [
+          "(-5, -11) - (14, 7)",
+          "(-4, -11) - (1, 7)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -13) - (3, 11)": {
+        "position": [
+          3,
+          11
+        ],
+        "portals": [
+          "(-5, -13) - (3, 12)",
+          "(-5, -11) - (11, 3)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-4, -12) - (6, 1)": {
+        "position": [
+          6,
+          1
+        ],
+        "portals": [
+          "(-4, -12) - (7, 1)",
+          "(-4, -12) - (8, 14)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(0, -12) - (13, 2)": {
+        "position": [
+          13,
+          2
+        ],
+        "portals": [
+          "(0, -12) - (13, 2)",
+          "(1, -11) - (9, 2)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(1, -10) - (12, 11)": {
+        "position": [
+          12,
+          11
+        ],
+        "portals": [
+          "(1, -10) - (13, 11)",
+          "(2, -10) - (1, 12)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(1, -10) - (7, 14)": {
+        "position": [
+          7,
+          14
+        ],
+        "portals": [
+          "(1, -10) - (10, 11)",
+          "(1, -9) - (14, 2)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-3, -6) - (4, 10)": {
+        "position": [
+          4,
+          10
+        ],
+        "portals": [
+          "(-3, -6) - (3, 10)",
+          "(-3, -6) - (13, 3)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-3, -6) - (9, 11)": {
+        "position": [
+          9,
+          11
+        ],
+        "portals": [
+          "(-3, -6) - (3, 10)",
+          "(-3, -6) - (13, 3)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-4, -5) - (9, 3)": {
+        "position": [
+          9,
+          3
+        ],
+        "portals": [
+          "(-4, -5) - (8, 6)",
+          "(-3, -6) - (10, 11)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(3, -8) - (6, 14)": {
+        "position": [
+          6,
+          14
+        ],
+        "portals": [
+          "(3, -8) - (5, 14)",
+          "(3, -8) - (1, 10)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(3, -7) - (14, 6)": {
+        "position": [
+          14,
+          6
+        ],
+        "portals": [
+          "(3, -7) - (14, 7)",
+          "(3, -8) - (7, 14)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(0, -9) - (4, 2)": {
+        "position": [
+          4,
+          2
+        ],
+        "portals": [
+          "(0, -9) - (1, 3)",
+          "(-1, -9) - (11, 14)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(0, -8) - (7, 6)": {
+        "position": [
+          7,
+          6
+        ],
+        "portals": [
+          "(0, -8) - (7, 7)",
+          "(-1, -8) - (14, 3)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(3, -11) - (10, 7)": {
+        "position": [
+          10,
+          7
+        ],
+        "portals": [
+          "(3, -11) - (10, 8)",
+          "(3, -10) - (6, 1)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-4, -13) - (8, 1)": {
+        "position": [
+          8,
+          1
+        ],
+        "portals": [
+          "(-4, -13) - (7, 1)",
+          "(-4, -13) - (4, 13)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(0, -5) - (5, 5)": {
+        "position": [
+          5,
+          5
+        ],
+        "portals": [
+          "(0, -5) - (1, 10)",
+          "(0, -7) - (1, 10)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -6) - (7, 4)": {
+        "position": [
+          7,
+          4
+        ],
+        "portals": [
+          "(-5, -6) - (7, 3)",
+          "(-4, -7) - (5, 7)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-6, -6) - (10, 4)": {
+        "position": [
+          10,
+          4
+        ],
+        "portals": [
+          "(-6, -6) - (9, 4)",
+          "(-6, -6) - (7, 4)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-6, -6) - (5, 2)": {
+        "position": [
+          5,
+          2
+        ],
+        "portals": [
+          "(-6, -6) - (2, 4)",
+          "(-6, -6) - (2, 10)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-6, -6) - (5, 11)": {
+        "position": [
+          5,
+          11
+        ],
+        "portals": [
+          "(-6, -6) - (5, 6)",
+          "(-7, -5) - (1, 7)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-7, -5) - (12, 7)": {
+        "position": [
+          12,
+          7
+        ],
+        "portals": [
+          "(-7, -5) - (14, 7)",
+          "(-8, -6) - (7, 4)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-8, -6) - (7, 10)": {
+        "position": [
+          7,
+          10
+        ],
+        "portals": [
+          "(-8, -6) - (8, 8)",
+          "(-7, -5) - (10, 10)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-8, -6) - (8, 10)": {
+        "position": [
+          8,
+          10
+        ],
+        "portals": [
+          "(-8, -6) - (6, 9)",
+          "(-7, -7) - (5, 6)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -6) - (4, 14)": {
+        "position": [
+          4,
+          14
+        ],
+        "portals": [
+          "(-5, -6) - (3, 14)",
+          "(-7, -6) - (3, 7)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-5, -9) - (6, 2)": {
+        "position": [
+          6,
+          2
+        ],
+        "portals": [
+          "(-5, -9) - (7, 2)",
+          "(-4, -9) - (1, 1)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-2, -6) - (1, 1)": {
+        "position": [
+          1,
+          1
+        ],
+        "portals": [
+          "(-2, -6) - (1, 2)",
+          "(-2, -7) - (1, 12)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(1, -11) - (1, 14)": {
+        "position": [
+          1,
+          14
+        ],
+        "portals": [
+          "(1, -11) - (2, 13)",
+          "(1, -11) - (2, 10)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(1, -11) - (2, 14)": {
+        "position": [
+          2,
+          14
+        ],
+        "portals": [
+          "(1, -11) - (4, 14)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(1, -9) - (1, 7)": {
+        "position": [
+          1,
+          7
+        ],
+        "portals": [
+          "(1, -9) - (2, 7)",
+          "(1, -10) - (3, 3)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(3, -6) - (1, 13)": {
+        "position": [
+          1,
+          13
+        ],
+        "portals": [
+          "(3, -6) - (1, 12)",
+          "(2, -7) - (10, 7)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(4, -6) - (14, 2)": {
+        "position": [
+          14,
+          2
+        ],
+        "portals": [
+          "(4, -6) - (13, 2)",
+          "(3, -6) - (11, 13)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(6, -6) - (2, 11)": {
+        "position": [
+          2,
+          11
+        ],
+        "portals": [
+          "(6, -6) - (2, 10)",
+          "(5, -6) - (3, 3)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-1, -6) - (8, 4)": {
+        "position": [
+          8,
+          4
+        ],
+        "portals": [
+          "(-1, -6) - (10, 2)",
+          "(-1, -5) - (1, 10)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(1, -9) - (10, 14)": {
+        "position": [
+          10,
+          14
+        ],
+        "portals": [
+          "(1, -9) - (11, 14)",
+          "(2, -9) - (3, 14)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-6, 2) - (13, 7)": {
+        "position": [
+          13,
+          7
+        ],
+        "portals": [
+          "(-6, 2) - (14, 8)",
+          "(-6, 2) - (14, 6)"
+        ],
+        "two_players": true,
+        "activated": true
+      },
+      "(-6, 2) - (13, 8)": {
+        "position": [
+          13,
+          8
+        ],
+        "portals": [
+          "(-6, 2) - (12, 8)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-3, -9) - (4, 9)": {
+        "position": [
+          4,
+          9
+        ],
+        "portals": [
+          "(-3, -9) - (7, 8)",
+          "(-3, -9) - (3, 2)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-1, -7) - (8, 12)": {
+        "position": [
+          8,
+          12
+        ],
+        "portals": [
+          "(-1, -7) - (13, 10)",
+          "(1, -6) - (3, 6)"
+        ],
+        "two_players": true,
+        "activated": false
+      },
+      "(-1, -9) - (7, 13)": {
+        "position": [
+          7,
+          13
+        ],
+        "portals": [
+          "(-1, -9) - (4, 14)",
+          "(-2, -9) - (11, 11)"
+        ],
+        "two_players": true,
+        "activated": true
+      },
+      "(0, -10) - (2, 15)": {
+        "position": [
+          2,
+          15
+        ],
+        "portals": [
+          "(0, -10) - (5, 13)",
+          "(-1, -10) - (12, 7)"
+        ],
+        "two_players": true,
+        "activated": true
+      },
+      "(-4, -10) - (7, 1)": {
+        "position": [
+          7,
+          1
+        ],
+        "portals": [
+          "(-4, -10) - (4, 4)",
+          "(-4, -10) - (4, 5)"
+        ],
+        "two_players": true,
+        "activated": true
+      },
+      "(-1, -15) - (2, 2)": {
+        "position": [
+          2,
+          2
+        ],
+        "portals": [
+          "(-1, -15) - (2, 3)",
+          "(-1, -15) - (2, 5)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(-3, -10) - (8, 14)": {
+        "position": [
+          8,
+          14
+        ],
+        "portals": [
+          "(-3, -10) - (7, 14)",
+          "(-1, -10) - (3, 7)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(2, -12) - (14, 7)": {
+        "position": [
+          14,
+          7
+        ],
+        "portals": [
+          "(2, -12) - (11, 14)",
+          "(2, -12) - (14, 9)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-2, -14) - (1, 14)": {
+        "position": [
+          1,
+          14
+        ],
+        "portals": [
+          "(-2, -14) - (1, 13)",
+          "(-2, -15) - (7, 11)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(-3, -11) - (2, 1)": {
+        "position": [
+          2,
+          1
+        ],
+        "portals": [
+          "(-3, -11) - (3, 1)",
+          "(-5, -16) - (13, 5)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(1, -16) - (2, 1)": {
+        "position": [
+          2,
+          1
+        ],
+        "portals": [
+          "(1, -16) - (3, 1)",
+          "(-6, -17) - (13, 4)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(7, -17) - (2, 4)": {
+        "position": [
+          2,
+          4
+        ],
+        "portals": [
+          "(7, -17) - (2, 5)",
+          "(0, -16) - (7, 4)"
+        ],
+        "two_players": false,
+        "activated": false
+      },
+      "(0, -14) - (2, 1)": {
+        "position": [
+          2,
+          1
+        ],
+        "portals": [
+          "(0, -14) - (3, 1)",
+          "(2, -13) - (3, 3)"
+        ],
+        "two_players": false,
+        "activated": true
+      },
+      "(2, -13) - (5, 3)": {
+        "position": [
+          5,
+          3
+        ],
+        "portals": [
+          "(2, -13) - (7, 3)",
+          "(2, -16) - (7, 3)"
+        ],
+        "two_players": false,
+        "activated": false
+      }
+    },
+    "cryptids": {
+      "(2, -12) - (11, 14), (2, -12) - (14, 9)": {
+        "teleporters": [
+          "(2, -12) - (11, 14)",
+          "(2, -12) - (14, 9)"
+        ],
+        "destination": "(2, -17) - (2, 2)"
+      },
+      "(-4, -10) - (4, 4), (-4, -10) - (4, 5)": {
+        "teleporters": [
+          "(-4, -10) - (4, 4)",
+          "(-4, -10) - (4, 5)"
+        ],
+        "destination": "(-4, -15) - (2, 2)"
+      },
+      "(-1, -10) - (3, 7), (-1, -10) - (12, 7)": {
+        "teleporters": [
+          "(-1, -10) - (3, 7)",
+          "(-1, -10) - (12, 7)"
+        ],
+        "destination": "(-1, -15) - (2, 2)"
+      },
+      "(-1, -9) - (4, 14), (-1, -9) - (11, 14)": {
+        "teleporters": [
+          "(-1, -9) - (4, 14)",
+          "(-1, -9) - (11, 14)"
+        ],
+        "destination": "(-1, -14) - (2, 2)"
+      },
+      "(-3, -6) - (3, 10), (-3, -6) - (10, 11)": {
+        "teleporters": [
+          "(-3, -6) - (3, 10)",
+          "(-3, -6) - (10, 11)"
+        ],
+        "destination": "(-3, -11) - (2, 2)"
+      },
+      "(1, -11) - (2, 10), (1, -11) - (9, 2)": {
+        "teleporters": [
+          "(1, -11) - (2, 10)",
+          "(1, -11) - (9, 2)"
+        ],
+        "destination": "(1, -16) - (2, 2)"
+      }
+    }
+  }
+}
